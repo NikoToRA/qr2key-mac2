@@ -1,0 +1,6 @@
+pyserial>=3.5
+pynput>=1.7.6
+PySimpleGUI>=4.60.4
+loguru>=0.6.0
+pyinstaller>=5.7.0
+rumps>=0.4.0

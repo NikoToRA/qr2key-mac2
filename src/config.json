@@ -1,0 +1,12 @@
+{
+  "serial": {
+    "baudrate": 9600,
+    "timeout": 0.05,
+    "encoding": "shift_jis",
+    "error_char": "�"
+  },
+  "app": {
+    "log_path": "~/Library/Logs/QR2Key/app.log",
+    "log_level": "INFO"
+  }
+}

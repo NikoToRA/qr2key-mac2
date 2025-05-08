@@ -1,0 +1,9 @@
+name: QR2Key
+app: src/main.py
+version: 1.0.0
+console: false
+onefile: true
+windowed: true
+icon: src/resources/icon.icns
+target_arch: universal2
+osx_bundle_identifier: com.qr2key.app

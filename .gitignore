@@ -172,3 +172,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# macOS specific
+*.DS_Store
+
+# Keep logs directory structure
+!/logs/
+/logs/*
+!/logs/.gitkeep
+
+# PyInstaller output overrides
+/dist/
+/*.spec
+# Keep build directory for config files
+!/build/
+
