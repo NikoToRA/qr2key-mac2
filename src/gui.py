@@ -28,7 +28,7 @@ class QR2KeyApp:
         try:
             sg.theme('SystemDefault')
         except AttributeError:
-            logger.warning("PySimpleGUI theme function not available in this version")
+            pass  # theme function not available in this version
     
     def create_layout(self):
         """Create the GUI layout"""
